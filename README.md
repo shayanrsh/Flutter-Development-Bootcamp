@@ -1,3 +1,4 @@
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/shayanrsh/Flutter-Development-Bootcamp/blob/main/flutter%20animation.gif))
 # My Flutter Development Journey 🚀
 Welcome to the GitHub repository where I'll be documenting my exciting journey through the "Complete Flutter App Development Bootcamp with Dart" course on Udemy. This repository is not just about code; it's a record of my progress, the projects I create, and the knowledge I gain as I embark on this fantastic learning adventure. 📚
 
